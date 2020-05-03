@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "580251302444",
+    "firebase_url": "https://mvapp-2be71.firebaseio.com",
+    "project_id": "mvapp-2be71",
+    "storage_bucket": "mvapp-2be71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580251302444:android:44e931f6f9745944102f89",
+        "android_client_info": {
+          "package_name": "com.example.mvapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580251302444-lnv0fb7838n85dlrivfjd6b9orftan2e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mvapp",
+            "certificate_hash": "109ac084f2a9e078457d4ab54a0df270d0664db8"
+          }
+        },
+        {
+          "client_id": "580251302444-fkqihg53hrmbr1an55mnlnsvtm0qkt82.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7fm9iyQYAIRUYQDViYPBbE5DYULgryss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580251302444-fkqihg53hrmbr1an55mnlnsvtm0qkt82.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

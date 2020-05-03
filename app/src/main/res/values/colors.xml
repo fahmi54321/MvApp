@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorPink">#D81B60</color>
+
+
+    <color name="colorUnguTua">#1D195B</color>
+    <color name="colorUnguMuda">#25188E</color>
+    <color name="colorUnguMuda2">#683BFB</color>
+    <color name="colorBiru">#5163FF</color>
+    <color name="colorAbu">#D8DCE3</color>
+    <color name="colorPutih">#FFFFFF</color>
+    <color name="colorHitam">#000000</color>
+
+    <color name="colorGreyTua">#202342</color>
+    <color name="colorGreyMuda">#2d325a</color>
+    <color name="colorAqua">#00c0ff</color>
+</resources>
